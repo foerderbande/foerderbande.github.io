@@ -1,2 +1,0 @@
-# foerderbande.github.io
-landingpage
